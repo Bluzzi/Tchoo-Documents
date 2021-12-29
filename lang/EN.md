@@ -1,5 +1,3 @@
-# The Tchoos - Project MAP
-
 ## Concept
 An application where we can get virtual pets under the form of an NFT. There will be different rarities for each pet (see rarity and selling waves)
 
