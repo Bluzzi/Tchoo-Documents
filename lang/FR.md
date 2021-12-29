@@ -1,5 +1,5 @@
 # Le projet  
-« The Tchoos » est une application ou l'ont peut acheter des "animaux" sous forme d'image NFT stocké dans la blockchain Elrond.  
+« **The Tchoos** » est une application ou l'ont peut acheter des "animaux" sous forme d'image NFT stocké dans la blockchain Elrond.  
 
 Le prix de vente initial d'un animal est défini par la [rareter](##Rareter-des-animaux) de celui-ci ainsi que celle de sa texture.  
 
