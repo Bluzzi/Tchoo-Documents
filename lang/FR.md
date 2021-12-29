@@ -24,8 +24,8 @@ Chaque 1% gagné permet de gagné 1 point de prestige qui serait visible dans un
 Le fait de compléter la barre de satisfaction permet de gagner X (selon la [rareter](#Rareter-des-animaux) de l'animal) point de [loterie](#La-loterie).
 
 ## Mise en vente
-[ ] - 10 animaux, 15 textures, 15 accessoires par vagues, soit 11250 possibilitées  
-[ ] - 10 animaux, 10 textures, 10 accessoires par vagues, soit 5000 possibilitées  
+- [ ] 10 animaux, 15 textures, 15 accessoires par vagues, soit 11250 possibilitées  
+- [ ] 10 animaux, 10 textures, 10 accessoires par vagues, soit 5000 possibilitées  
 
 - 10 animaux (6 classiques, 3 rares, 1 ultra rare)
 - 15 textures différentes par animal (couleurs differentes), dont plusieurs paliers de rareté (pet doré, ...)
