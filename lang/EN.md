@@ -1,46 +1,37 @@
-## Concept
-An application where we can get virtual pets under the form of an NFT. There will be different rarities for each pet (see rarity and selling waves)
+# The projet  
+« **The Tchoos** » is a mobile and web app where you can buy aliens as NFT images stored in the Elrond blockchain.  
 
-We can take care of the pet with different ways :
-- Wash him
-- Feed him
-- Getting him to sleep
-- Pet him
-- ...
+The initial sell price of an alien is set by his [rarity](#Aliens-rarity) and his texture.  
 
-Taking good care of the pet will increase his "hapiness bar", which will allow to get more "x point"
+Once the alien is bought, you have to named him, then you can start to [take care of him](#Aliens-caring) throught different tasks
 
-## Rarity and selling waves
-> - if : 10 differents pet, 15 textures, 15 accesories => 11250 possibilities
-> - if : 10 differents pet, 10 textures, 10 accesories => 5000 possibilities
+The aliens will be [sold](#Selling) per wave with a maximum of 5 waves.
 
-> - once we have 3D models the NFT creation will be automatized
-- 1 :
-    - 10 pets (6 classic, 3 rares, 1 ultra rare)
-    - each pet will have 10 / 15 different textures (different colors), with different rarities (golden pet..)
-    - 15 differents accesories (hat, scarf...)
-- 2 :
-    - ...
-    - ...
-- 3 :
-    - ...
-    - ... 
-- 4 :
-    - ...
-    - ...
-- 5 :
-    - ...
-    - ...
+## Aliens rarity
+> to edit when the number of alien will be set
+> set the number of lottery points won when the hapiness bar is maxed, according to the alien rarity
 
-## Prices :
-- Each common NFT will be sold for 1 EGLD ($240) (it may change, we dont really know)
+## Aliens caring
+There is differents ways to pet your aliens, which can increase his happiness bar from 0% to 100%:
+- Washing it (+20% -> reset every 24 hours)
+- Feed it (+20% -> reset 2 times a day noon/evening)
+- Caress it (+5% pet caress, max 4 -> -5% every 1 hour)
+- Playing with him (+20% -> reset every 4 hours)
+- Turning off / on the light every morning / evening (+20% if the pet is well cared) 
 
-## What we need :
-- Logo Meta Friend and logo The Tchoos
-- Pets and accesories will be created in 3D, the models have to be exported in a OBJ format
-- ...
+Each 1% won allows to win 1 prestige point which will be visible in a leaderboard on our site to see the best aliens with their name and the name of his master (you).
 
-## X points
-- allows to buy lottery tickets to win IRL prizes
-- earned every 5 minutes (10 points) and have an hapiness bar maxed give a buff of 200% to base earned points (30 instead of 10 (potential values) )
-- pet rarity give a buff (+0% for classic pets, +50% to rare pets, +100% to ultra rares pet (potential values) )
+Completing the hapiness bar will earn you X (according to the alien [rarity](#Aliens-rarity)) [lottery points](#The-lottery)
+
+## Selling
+- [ ] 10 aliens, 15 textures, 15 accessories per waves, so 11250 possibility
+- [ ] 10 aliens, 10 textures, 10 accessories par waves, so 5000 possibility
+
+- 10 aliens (6 classic, 3 rares, 1 ultra rare)
+- 15 different textures per alien (differents colors), with differents rarity levels (golden pet, ...)
+- 15 differents accessories (hat, ...)
+
+> to continue when the number will be decided
+
+## The lottery
+> 24 hours boost in lottery points
