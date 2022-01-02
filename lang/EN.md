@@ -28,7 +28,7 @@ Completing the hapiness bar will earn you X (according to the alien [rarity](#Al
 - [ ] 10 aliens, 10 textures, 10 accessories par waves, so 5000 possibility
 
 - 10 aliens (6 classic, 3 rares, 1 ultra rare)
-- 15 different textures per alien (differents colors), with differents rarity levels (golden pet, ...)
+- 15 differents textures per alien (differents colors), with differents rarity levels (golden pet, ...)
 - 15 differents accessories (hat, ...)
 
 > to continue when the number will be decided
