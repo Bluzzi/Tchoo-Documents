@@ -24,14 +24,20 @@ Chaque 1% gagné permet de gagné 1 point de prestige qui serait visible dans un
 Le fait de compléter la barre de satisfaction permet de gagner X (selon la [rareter](#Rareter-des-aliens) de l'alien) point de [loterie](#La-loterie).
 
 ## Mise en vente
-- [ ] 10 aliens, 15 textures, 15 accessoires par vagues, soit 11250 possibilitées  
-- [ ] 10 aliens, 10 textures, 10 accessoires par vagues, soit 5000 possibilitées  
+Il y aura un total de 5 vagues de 1000 aliens (chaque vague serait faite de 10 aliens avec chacun 10 textures différentes et 10 accessoires différent). Soit un total de 5000 aliens après la 5ème vague.
 
-- 10 aliens (6 classiques, 3 rares, 1 ultra rare)
-- 15 textures différentes par alien (couleurs differentes), dont plusieurs paliers de rareté (pet doré, ...)
-- 15 accessoires differents (chapeaux, ...)
+Chaque vague représenterait les aliens d'une planète. 
+> ajouter une variante avec un fond différent selon la planète ?
 
-> continuer cette section quand les chiffres seront décidé
+Tout les aliens d'une même vague seront au même prix, après le paiement, on obtiendrait un alien aléatoire parmis les [différentes rareter d'alien](#Rareter-des-aliens).
+
+Voici les prix des aliens des différentes vagues :
+- **1 -** 0.75 eGLD
+- **2 -** 1 eGLD
+- **3 -** 1.5 eGLD
+- **4 -** 1.75 eGLD
+- **5 -** 2 eGLD
+> prix des vagues 2, 3, 4 et 5 défini dans le meilleur des scénarios, si la vente prend son temps les prix seront à revoir
 
 ## La loretie
 > boost pendant 24H des points de lotterie
