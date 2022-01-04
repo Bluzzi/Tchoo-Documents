@@ -24,14 +24,21 @@ Each 1% won allows to win 1 prestige point which will be visible in a leaderboar
 Completing the hapiness bar will earn you X (according to the alien [rarity](#Aliens-rarity)) [lottery points](#The-lottery)
 
 ## Selling
-- [ ] 10 aliens, 15 textures, 15 accessories per waves, so 11250 possibility
-- [ ] 10 aliens, 10 textures, 10 accessories par waves, so 5000 possibility
+There will be a total of 5 waves of 1000 aliens (each waves will be 10 aliens with 10 different textures and 10 different accessories). For a total of 5000 aliens after the fifth wave
 
-- 10 aliens (6 classic, 3 rares, 1 ultra rare)
-- 15 differents textures per alien (differents colors), with differents rarity levels (golden pet, ...)
-- 15 differents accessories (hat, ...)
+Each wave will represent the aliens of a planet. 
+> add a variant with a different background for each planet?
 
-> to continue when the number will be decided
+Every aliens of the same wave will be at the same price, after the payment, we would get a random alien among the [different rarity](#Aliens-rarity).
+
+Here is the prices of the aliens of the different waves:
+- **1 -** 0.75 eGLD
+- **2 -** 1 eGLD
+- **3 -** 1.5 eGLD
+- **4 -** 1.75 eGLD
+- **5 -** 2 eGLD
+> prices of waves 2, 3, 4 and 5 defined in the best scenario, if the sale takes a lot of time the prices will be revised
+
 
 ## The lottery
 > 24 hours boost in lottery points
