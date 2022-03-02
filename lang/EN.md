@@ -8,7 +8,10 @@ Once the alien is bought, you have to named him, then you can start to [take car
 The aliens will be [sold](#Selling) per wave with a maximum of 5 waves.
 
 ## Aliens rarity
-> to edit when the number of alien will be set
+- 1 of the 3d will be legendary 
+- 2 of the 3d will be epic
+- 3 of the 3d will be rare
+- 4 of the 3d will be common
 > set the number of lottery points won when the hapiness bar is maxed, according to the alien rarity
 
 ## Aliens caring
@@ -26,17 +29,22 @@ Completing the hapiness bar will earn you X (according to the alien [rarity](#Al
 ## Selling
 There will be a total of 5 waves of 1000 aliens (each waves will be 10 aliens with 10 different textures and 10 different accessories). For a total of 5000 aliens after the fifth wave
 
-Each wave will represent the aliens of a planet. 
+### Each wave will represent the aliens of a planet. 
 > add a variant with a different background for each planet?
+- first planet name : ? / theme :
+- second planet name : ? / theme :
+- third planet name : ? / theme :
+- fourth planet name : ? / theme :
+- fifth planet name : ? / theme :
 
 Every aliens of the same wave will be at the same price, after the payment, we would get a random alien among the [different rarity](#Aliens-rarity).
 
 Here is the prices of the aliens of the different waves:
-- **1 -** 0.75 eGLD
-- **2 -** 1 eGLD
-- **3 -** 1.5 eGLD
-- **4 -** 1.75 eGLD
-- **5 -** 2 eGLD
+- **1 -** 1 eGLD
+- **2 -** to define after the previous wave
+- **3 -** to define after the previous wave
+- **4 -** to define after the previous wave
+- **5 -** to define after the previous wave
 > prices of waves 2, 3, 4 and 5 defined in the best scenario, if the sale takes a lot of time the prices will be revised
 
 
