@@ -31,11 +31,11 @@ There will be a total of 5 waves of 1000 aliens (each waves will be 10 aliens wi
 
 ### Each wave will represent the aliens of a planet. 
 > add a variant with a different background for each planet?
-- first planet name : ? / theme :
-- second planet name : ? / theme :
-- third planet name : ? / theme :
-- fourth planet name : ? / theme :
-- fifth planet name : ? / theme :
+- first planet name : ? / theme : ?
+- second planet name : ? / theme : ?
+- third planet name : ? / theme : ?
+- fourth planet name : ? / theme : ?
+- fifth planet name : ? / theme : ?
 
 Every aliens of the same wave will be at the same price, after the payment, we would get a random alien among the [different rarity](#Aliens-rarity).
 
