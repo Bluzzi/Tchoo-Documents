@@ -8,10 +8,10 @@ Once the alien is bought, you have to named him, then you can start to [take car
 The aliens will be [sold](#Selling) per wave with a maximum of 5 waves.
 
 ## Aliens rarity
-- 1 of the 3d will be legendary 
-- 2 of the 3d will be epic
-- 3 of the 3d will be rare
-- 4 of the 3d will be common
+- 1 of the 3d models will be legendary 
+- 2 of the 3d models will be epic
+- 3 of the 3d models will be rare
+- 4 of the 3d models will be common
 > set the number of lottery points won when the hapiness bar is maxed, according to the alien rarity
 
 ## Aliens caring
