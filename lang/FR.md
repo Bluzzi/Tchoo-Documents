@@ -31,11 +31,21 @@ Il y aura un total de 5 vagues de 1000 aliens (chaque vague serait faite de 10 a
 
 ### Chaque vague représenterait les aliens d'une planète. 
 > ajouter une variante avec un fond différent selon la planète ?
-- nom premiere planete : ? / theme ?
-- nom seconde planete : ? / theme ?
-- nom troisieme planete : ? / theme ?
-- nom quatrieme planete : ? / theme ?
-- nom cinquieme planete : ? / theme ?
+- premiere planete : 
+    - nom ?
+    - theme ?
+- seconde planete : 
+    - nom ?
+    - theme ?
+- troisieme planete :
+    - nom ?
+    - theme ?
+- quatrieme planete :
+    - nom ?
+    - theme ?
+- cinquieme planete :
+    - nom ?
+    - theme ?
 
 Tout les aliens d'une même vague seront au même prix, après le paiement, on obtiendrait un alien aléatoire parmis les [différentes rareter d'alien](#Rareter-des-aliens).
 
