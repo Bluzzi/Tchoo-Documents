@@ -9,7 +9,7 @@ Cette charte sur la protection des données personnelles a pour but de vous pré
 ## Définitions 
 - **The Tchoos** représente **Camille Dugas**
 - **website** représente notre site internet à l'adresse **https://tchoo.pet**
-- **application** représente notre application mobile à téléchargeable sur les liens suivant : **https://play.google.com/store/apps/details?id=com.tchoo.pet** / **https://apps.apple.com/us/app/tchoo-pet/id1498797554**
+- **application** représente notre application mobile à télécharger sur les liens suivant : **https://play.google.com/store/apps/details?id=com.tchoo.pet** / **https://apps.apple.com/us/app/tchoo-pet/id1498797554**
 
 ---
 
