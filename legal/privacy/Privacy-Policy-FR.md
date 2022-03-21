@@ -1,4 +1,4 @@
-# Politique de confidentialité
+# Politique de Confidentialité
 
 > Mise à jour : 16 mars 2022
 
@@ -7,6 +7,7 @@ Cette charte sur la protection des données personnelles a pour but de vous pré
 ---
 
 ## Définitions 
+
 - **The Tchoos** représente **Camille Dugas**.
 - **website** représente notre site internet à l'adresse **https://tchoo.pet**
 - **application** représente notre application mobile à télécharger sur les liens suivant : **https://play.google.com/store/apps/details?id=com.tchoo.pet** / **https://apps.apple.com/us/app/tchoo-pet/id1498797554**
@@ -56,3 +57,15 @@ Certaines données peuvent être vu par les visiteurs/utilisateurs de notre **we
 ### Acceptation 
 
 En naviguant sur notre **website** ou notre **application**, vous acceptez cette politique. Veuillez ne pas utiliser nos services si vous n’acceptez pas notre politique de confidentialité. 
+
+---
+
+## Données à caractère personnel
+
+Tout client dispose d’un droit d’accès, de rectification et d’opposition aux données personnelles le concernant, en effectuant sa demande écrite et signée, accompagnée d’une copie du titre d’identité avec signature du titulaire de la pièce, en précisant l’adresse à laquelle la réponse doit être envoyée. Conformément aux dispositions des articles 38 et suivants de la loi 78-17 du 6 janvier 1978 relative à l’informatique. Si le client refuse le traitement de ses données, il lui est demandé de s'abstenir d'utiliser le site. Ce traitement des données à caractère personnel se fait dans le respect du règlement général sur la protection des données 2016/679 du 27 avril 2016. 
+
+---
+
+### Droits
+
+Le présent contrat est soumis aux lois françaises.

@@ -1,4 +1,4 @@
-# General Conditions of Sale (GCS)
+# General Conditions of Sale
 
 > Update : March 19 2022
 
