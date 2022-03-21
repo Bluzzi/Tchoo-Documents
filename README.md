@@ -1,6 +1,10 @@
 # The Tchoos - Documents
 
-This repository contains all documents related to The Tchoos translated into the different languages we use.
+This repository contains all documents related to Tchoos.  
+
+The main documents are translated into the languages we will use :
+- English
+- French
 
 ## Presentation of the project
 - [ENGLISH](./presentation/Presentation-EN.md)
@@ -22,4 +26,5 @@ This repository contains all documents related to The Tchoos translated into the
     - [ENGLISH](...)
     - [FRENCH](...)
 
-## Models (SOON)
+## Planet/alien lore
+All its information is contained in JSON files in the [planets folder](./planets/).
