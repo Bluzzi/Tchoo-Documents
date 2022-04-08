@@ -1,6 +1,6 @@
 # General Conditions of Sale
 
-> Update : March 19 2022
+> Update : April 04 2022
 
 Every user is invited to read carefully the present General Conditions of Sale. By browsing the site and prior to any purchase, you agree to read and accept without reservation these provisions in their entirety. The present General Conditions of Sale may be updated at any time.
 
