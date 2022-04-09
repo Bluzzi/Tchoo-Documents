@@ -20,10 +20,10 @@ The main documents are translated into the languages we will use :
 
 ## Roadmap (SOON)
 - Public roadmap (SOON)
-    - [ENGLISH](...)
+    - [ENGLISH](./roadmap/PublicRoadmap-EN.md)
     - [FRENCH](...)
 - Private roadmap for marketing (SOON)
-    - [ENGLISH](...)
+    - [ENGLISH](./roadmap/PrivateRoadmap-EN.md)
     - [FRENCH](...)
 
 ## Planet/alien lore
