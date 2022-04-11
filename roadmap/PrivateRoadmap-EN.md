@@ -1,5 +1,5 @@
 # Private Roadmap
-- 0.0 Project Idea:
+- 0.0 Project Idea
     - Base idea of the project
     - P2E pet caring game 
     - Lottery 
