@@ -18,11 +18,11 @@ The main documents are translated into the languages we will use :
     - [ENGLISH](./legal/Terms-Conditions-Sale-EN.md)
     - [FRENCH](./legal/Terms-Conditions-Sale-FR.md)
 
-## Roadmap (SOON)
-- Public roadmap (SOON)
+## Roadmap
+- Public roadmap
     - [ENGLISH](./roadmap/public/Public-Roadmap-EN.md)
     - [FRENCH](./roadmap/public/Public-Roadmap-EN.md)
-- Private roadmap for marketing (SOON)
+- Private roadmap for marketing
     - [ENGLISH](./roadmap/private/Private-Roadmap-EN.md)
     - [FRENCH](./roadmap/private/Private-Roadmap-FR.md)
 
