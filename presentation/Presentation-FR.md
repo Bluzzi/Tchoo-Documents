@@ -20,7 +20,8 @@ Chaque 1% gagné permet de gagné 1 point de prestige qui serait visible dans un
 Compléter la barre de satisfaction permet de gagner X point de [loterie](#La-loterie).
 
 ## Mise en vente
-Il y aura un total de 5 vagues de 1000 aliens (chaque vague serait faite de 10 aliens avec chacun 10 textures différentes et 10 accessoires différent). Soit un total de 5000 aliens après la 5ème vague.
+- Il y aura un total de 5 vagues de 1000 aliens (chaque vague serait faite de 10 aliens avec chacun 5 textures différentes) chaque aliens auras 1 des 20 accessoires disponibles. 
+- Pour un total de 5000 aliens après la 5ème vague.
 
 ### Chaque vague représenterait les aliens d'une planète. 
 > Ajouter une variante avec un fond différent selon la planète ?

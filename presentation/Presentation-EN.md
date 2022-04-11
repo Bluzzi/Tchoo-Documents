@@ -20,7 +20,8 @@ Each 1% won allows to win 1 prestige point which will be visible in a leaderboar
 Completing the hapiness bar will earn you X [lottery points](#The-lottery).
 
 ## Selling
-There will be a total of 5 waves of 1000 aliens (each waves will be 10 aliens with 10 different textures and 10 different accessories). For a total of 5000 aliens after the fifth wave.
+- There will be a total of 5 waves of 1000 aliens (each waves will be 10 aliens with 5 different textures) each aliens will own 1 of the 20 available accessories.
+- For a total of 5000 aliens after the fifth wave.
 
 ### Each wave will represent the aliens of a planet. 
 > Add a variant with a different background for each planet ?
