@@ -1,10 +1,8 @@
 # Private Roadmap
 - 0.0 Project Idea
-    - Base idea of the project
-    - P2E pet caring game 
-    - Lottery 
+    - First idea of the project, a P2E game on the Elrond blockchain
 - 0.1 Base Idea 
-    - See ../Presentation/presentation-EN.md
+    - A pet caring game where the player can earn rewards with a lottery system.
 - 0.2 Firsts 2D Visuals
     - Idea of Aliens + 2d visuals (eachpix)
     - 3D models (QuinTMoon)
@@ -12,7 +10,9 @@
     - Website almost finished
     - Base Game finished (some little things to add)
 - 0.4 3d Models
-    - 3d models 
+    - 3d models finished 
+    - Exporting each unique models
+    - Tweets, sneak peek on the game and the models
 
 
 
