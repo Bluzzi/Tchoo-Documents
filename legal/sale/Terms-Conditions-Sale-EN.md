@@ -46,7 +46,7 @@ The customer places an order on the **website**. Any order can only be made when
 
 ## Terms of payment
 
-Only one payment method can be used on the **website**. Any purchase implies the acceptance of the General Terms and Conditions of Sale of https://elrond.com/.
+Only one payment method can be used on the **website**. Any purchase implies the acceptance of the General Terms and Conditions of Sale of https://elrond.com
 
 ## Delivery
 
