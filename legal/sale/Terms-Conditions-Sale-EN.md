@@ -14,7 +14,9 @@ Every user is invited to read carefully the present General Conditions of Sale. 
     - SIRET n°881 460 679 00015
     - VAT not applicable, art. 293 B of the CGI.
 - **website** represents our website at **https://tchoo.pet**
-- **application** represents our mobile application to download on the following links: **https://play.google.com/store/apps/details?id=com.tchoo.pet** / **https://apps.apple.com/us/app/tchoo-pet/id1498797554**
+- **application** represents our mobile application to download on the following links: 
+    - [Play Store (Google)](https://play.google.com/store/apps/details?id=com.tchoo.pet)
+    - [App Store (Apple)](https://apps.apple.com/us/app/tchoo-pet/id1498797554)
 - **customer** means any person who places an order via the website https://tchoo.pet
 - **NFT** stands for Non-Fungible Token, which is a unique object that is not interchangeable.
 - **Terms and Conditions** or **T&Cs** means this document.
