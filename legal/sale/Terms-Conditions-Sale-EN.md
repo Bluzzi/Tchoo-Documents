@@ -54,7 +54,7 @@ The purchases on the **website** are automated, the customer receives his **NFT*
 
 In accordance with Article L.121-20-2 of the French Consumer Code and given the nature of the service, the customer no longer has the right of withdrawal from the date and time the service is provided.
 
-## Terms of reimbursement
+## Terms of rembursement
 
 The **NFT** delivered are so-called intangible products and stored directly on the **Elrond** blockchain, given this fact no refund is possible once the order has been executed.
 
