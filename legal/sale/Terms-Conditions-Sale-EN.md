@@ -13,11 +13,11 @@ Every user is invited to read carefully the present General Conditions of Sale. 
     - E-Mail : contact@tchoo.pet
     - SIRET n°881 460 679 00015
     - VAT not applicable, art. 293 B of the CGI.
-- **website** represents our website at **https://tchoo.pet**
+- **website** represents our website at [https://tchoo.pet](https://tchoo.pet)
 - **application** represents our mobile application to download on the following links: 
     - [Play Store (Google)](https://play.google.com/store/apps/details?id=com.tchoo.pet)
     - [App Store (Apple)](https://apps.apple.com/us/app/tchoo-pet/id1498797554)
-- **customer** means any person who places an order via the website https://tchoo.pet
+- **customer** means any person who places an order via the website [https://tchoo.pet](https://tchoo.pet)
 - **NFT** stands for Non-Fungible Token, which is a unique object that is not interchangeable.
 - **Terms and Conditions** or **T&Cs** means this document.
 - **Elrond** is the company that manages the blockchain and cryptocurrency (EGLD) used for our payments and services.
@@ -46,11 +46,11 @@ The customer places an order on the **website**. Any order can only be made when
 
 ## Terms of payment
 
-Only one payment method can be used on the **website**. Any purchase implies the acceptance of the General Terms and Conditions of Sale of https://elrond.com
+Only one payment method can be used on the **website**. Any purchase implies the acceptance of the General Terms and Conditions of Sale of [https://elrond.com](https://elrond.com)
 
 ## Delivery
 
-The purchases on the **website** are automated, the customer receives his **NFT** directly on his Elrond wallet (within a time which will be fixed by the speed of his transaction on the **Elrond** network). Nevertheless, you can contact us for any problem with the purchase of a **NFT** here: contact@tchoo.pet
+The purchases on the **website** are automated, the customer receives his **NFT** directly on his Elrond wallet (within a time which will be fixed by the speed of his transaction on the **Elrond** network). Nevertheless, you can contact us for any problem with the purchase of a **NFT** here: [contact@tchoo.pet](mailto://contact@tchoo.pet)
 
 ## Withdrawal  
 

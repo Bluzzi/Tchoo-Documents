@@ -9,7 +9,7 @@ This privacy policy is intended to tell you how we collect your personal informa
 ## Definitions 
 
 - **The Tchoos** represents **Camille Dugas**
-- **website** represents our website at **https://tchoo.pet**
+- **website** represents our website at [https://tchoo.pet](https://tchoo.pet)
 - **application** represents our mobile application to download on the following links:
     - [Play Store (Google)](https://play.google.com/store/apps/details?id=com.tchoo.pet)
     - [App Store (Apple)](https://apps.apple.com/us/app/tchoo-pet/id1498797554)
