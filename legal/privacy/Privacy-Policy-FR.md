@@ -2,7 +2,7 @@
 
 > Mise à jour : 16 mars 2022
 
-Cette charte sur la protection des données personnelles a pour but de vous présenter la manière dont nous collectons vos données à caractère personnel lorsque vous créez un compte sur notre site. Si vous avez des questions concernant vos informations personnelles, veuillez nous contacter via notre e-mail ``contact@tchoo.pet``. En utilisant les services, vous vous consentez à cette politique et au traitement de vos données de la manière prévue dans cette politique. Si vous n'êtes pas d'accord avec ces conditions, veuillez ne pas utiliser les services.  
+Cette charte sur la protection des données personnelles a pour but de vous présenter la manière dont nous collectons vos données à caractère personnel lorsque vous créez un compte sur notre site. Si vous avez des questions concernant vos informations personnelles, veuillez nous contacter via notre e-mail [contact@tchoo.pet](mailto://contact@tchoo.pet). En utilisant les services, vous vous consentez à cette politique et au traitement de vos données de la manière prévue dans cette politique. Si vous n'êtes pas d'accord avec ces conditions, veuillez ne pas utiliser les services.  
 
 ---
 

@@ -10,7 +10,7 @@ Tout utilisateur est invité à lire attentivement les présentes Conditions Gé
 
 - **The Tchoos** représente l'auto-entrepreneur **Camille Dugas** :
     - Localisation : France, Europe
-    - E-Mail : contact@tchoo.pet
+    - E-Mail : [contact@tchoo.pet](mailto://contact@tchoo.pet)
     - SIRET n°881 460 679 00015
     - TVA non applicable, art. 293 B du CGI.
 - **website** représente notre site à l'adresse [tchoo.pet](https://tchoo.pet)

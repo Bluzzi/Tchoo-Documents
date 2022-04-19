@@ -10,7 +10,7 @@ Every user is invited to read carefully the present General Conditions of Sale. 
 
 - **The Tchoos** represents the self-employed **Camille Dugas**:
     - Location: France, Europe
-    - E-Mail: contact@tchoo.pet
+    - E-Mail: [contact@tchoo.pet](mailto://contact@tchoo.pet)
     - SIRET n°881 460 679 00015
     - VAT not applicable, art. 293 B of the CGI.
 - **website** represents our website at [tchoo.pet](https://tchoo.pet)
