@@ -10,7 +10,9 @@ Cette charte sur la protection des données personnelles a pour but de vous pré
 
 - **The Tchoos** représente **Camille Dugas**.
 - **website** représente notre site internet à l'adresse **https://tchoo.pet**
-- **application** représente notre application mobile à télécharger sur les liens suivant : **https://play.google.com/store/apps/details?id=com.tchoo.pet** / **https://apps.apple.com/us/app/tchoo-pet/id1498797554**
+- **application** représente notre application mobile à télécharger sur les liens suivant :
+    - [Play Store (Google)](https://play.google.com/store/apps/details?id=com.tchoo.pet)
+    - [App Store (Apple)](https://apps.apple.com/us/app/tchoo-pet/id1498797554)
 
 ---
 
@@ -20,11 +22,9 @@ Le responsable des données personnelles qui sont recueillies sur notre website 
 
 ---
 
-## Charte
-
 En utilisant les services proposés par **The Tchoos**, vous déclarez avoir compris et accepté sans réserve les termes de la présente charte.
 
-### Informations que nous collectons
+## Informations que nous collectons
 
 **The Tchoos** collecte certaines données, nous nous efforçons de veiller à ce que les données que nous collectons à votre sujet soient stockées en toute sécurité. 
 
@@ -35,12 +35,12 @@ Les informations que nous collectons à votre sujet incluent :
 - information sur votre wallet Elrond lié au site : provider (web wallet, maiar app, extension, ledger), adresse public (celle utilisé pour recevoir des EGLD), signature (généré à partir de l'adresse public et de votre token)
 - les informations à propos du NFT et de ses statistiques reliés à l'**application**
 
-### Qui a accès à vos données personnelles et sont telles partagés ?
+## Qui a accès à vos données personnelles et sont telles partagés ?
 Nous ne vendons jamais d'informations personnellement identifiables à d'autres sociétés, et nous ne partageons pas vos informations avec des personnes extérieures à notre réseau. Toutes les informations que nous stockons sont destinées au développement du réseau ou strictement à un usage interne. 
 
 Certaines données peuvent être vu par les visiteurs/utilisateurs de notre **website** ou de notre **application**, les données concernées sont précisées dans cette charte.
 
-### Utilisation des données personnelles
+## Utilisation des données personnelles
 
 **The Tchoos** utilise les informations que nous collectons de la manière suivante :
 - permettre une connexion automatique et de gérer votre compte.
@@ -49,12 +49,11 @@ Certaines données peuvent être vu par les visiteurs/utilisateurs de notre **we
 
 ---
 
-## Modification et acceptation de la politique
+## Modification de la politique
 
-### Modification
 **The Tchoos** se réserve le droit de modifier à tout moment cette charte. Si les informations de cette charte sont modifiées dans le futur, vous serez invités à les lire de nouveau. 
 
-### Acceptation 
+## Acceptation de la politique
 
 En naviguant sur notre **website** ou notre **application**, vous acceptez cette politique. Veuillez ne pas utiliser nos services si vous n’acceptez pas notre politique de confidentialité. 
 
@@ -66,6 +65,6 @@ Tout client dispose d’un droit d’accès, de rectification et d’opposition 
 
 ---
 
-### Droits
+## Droits
 
 Le présent contrat est soumis aux lois françaises.

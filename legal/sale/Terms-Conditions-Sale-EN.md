@@ -62,6 +62,6 @@ The **NFT** delivered are so-called intangible products and stored directly on t
 
 ---
 
-### Rights
+## Rights
 
 This contract is subject to French law.

@@ -14,7 +14,9 @@ Tout utilisateur est invité à lire attentivement les présentes Conditions Gé
     - SIRET n°881 460 679 00015
     - TVA non applicable, art. 293 B du CGI.
 - **website** représente notre site à l'adresse **https://tchoo.pet**
-- **application** représente notre application mobile à télécharger sur les liens suivant : **https://play.google.com/store/apps/details?id=com.tchoo.pet** / **https://apps.apple.com/us/app/tchoo-pet/id1498797554**
+- **application** représente notre application mobile à télécharger sur les liens suivant : 
+    - [Play Store (Google)](https://play.google.com/store/apps/details?id=com.tchoo.pet)
+    - [App Store (Apple)](https://apps.apple.com/us/app/tchoo-pet/id1498797554)
 - **client** désigne toute personne qui passe une commande via le website https://tchoo.pet
 - **NFT** signifie jeton non fongible c'est un objet unique qui n'est pas interchangeable.
 - **Conditions Générales de Vente** ou **CGV** désignent le présent document.
@@ -60,6 +62,6 @@ Les **NFT** livré sont des produits dits immatériels et stocké directement su
 
 ---
 
-### Droits
+## Droits
 
 Le présent contrat est soumis aux lois françaises.

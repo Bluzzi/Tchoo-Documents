@@ -10,7 +10,9 @@ This privacy policy is intended to tell you how we collect your personal informa
 
 - **The Tchoos** represents **Camille Dugas**
 - **website** represents our website at **https://tchoo.pet**
-- **application** represents our mobile application to download on the following links : **https://play.google.com/store/apps/details?id=com.tchoo.pet** / **https://apps.apple.com/us/app/tchoo-pet/id1498797554**
+- **application** represents our mobile application to download on the following links:
+    - [Play Store (Google)](https://play.google.com/store/apps/details?id=com.tchoo.pet)
+    - [App Store (Apple)](https://apps.apple.com/us/app/tchoo-pet/id1498797554)
 
 ---
 
@@ -20,11 +22,9 @@ The person responsible for the personal data collected on our website is **The T
 
 ---
 
-## Chart
-
 By using the services offered by **The Tchoos**, you declare to have understood and accepted without reservation the terms of this chart.
 
-### Information we collect
+## Information we collect
 
 **The Tchoos** certain data, we strive to ensure that the data we collect about you is stored securely. 
 
@@ -35,12 +35,12 @@ The information we collect about you includes :
 - information on your Elrond wallet linked to the site : provider (web wallet, maiar app, extension, ledger), public address (the one used to receive EGLD), signature (generated from the public address and your token)
 - information about the NFT and his statistics related to the application **application**
 
-### Who has access to your personal data and is it shared ?
+## Who has access to your personal data and is it shared ?
 We never sell personally identifiable information to other companies, and we do not share your information with anyone outside our network. All information we store is for network development or strictly internal use. 
 
 Some data may be seen by visitors/users of our **website** or of our **application**, the data concerned are specified in this chart.
 
-### Use of personal data
+## Use of personal data
 
 **The Tchoos** uses the information we collect in the following ways :
 - allow automatic login and manage your account.
@@ -49,11 +49,10 @@ Some data may be seen by visitors/users of our **website** or of our **applicati
 
 ---
 
-## Modification and acceptation of the policy
+## Modification of the policy
 
-### Modification
 **The Tchoos** reserves the right to change this policy at any time. If the information in this policy changes in the future, you will be asked to read it again.
 
-### Acceptation 
+## Acceptation of the policy
 
 By browsing our **website** or our **application**, you agree to this policy. Please do not use our services if you do not agree to our privacy policy. 
