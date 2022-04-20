@@ -56,3 +56,15 @@ Some data may be seen by visitors/users of our **website** or of our **applicati
 ## Acceptation of the policy
 
 By browsing our **website** or our **application**, you agree to this policy. Please do not use our services if you do not agree to our privacy policy. 
+
+---
+
+## Personal data
+
+Any customer has the right to access, rectify and oppose any personal data concerning him/her, by making a written and signed request, accompanied by a copy of the identity document with the signature of the holder of the document, specifying the address to which the reply should be sent. In accordance with the provisions of articles 38 and following of the law 78-17 of January 6, 1978 relating to data processing. If the customer refuses the processing of his data, he is asked to refrain from using the site. This processing of personal data is done in compliance with the General Data Protection Regulation 2016/679 of 27 April 2016.
+
+---
+
+## Rights
+
+This contract is subject to French law.
