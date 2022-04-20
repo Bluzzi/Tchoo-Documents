@@ -3,7 +3,7 @@
 ## Notre Roadmap
 - La roadmap montre les différents périodes dans lesquelles The Tchoos est/va passer. Nous mettrons à jour cette roadmap donc restez informez !
 
-- 0) Idee générale
+- 0) Idée générale
      - 5 utilisateurs d'Elrond, 5 amis et 1 idée: un jeu P2E sur la blockchain Elrond. Après une longue periode de réflexion, nous avons une idée fixe sur le jeu, l'artwork et l'histoire des Tchoos.
 
 - 1) Premiere vague + sortie du jeu
