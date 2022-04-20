@@ -19,12 +19,9 @@ The main documents are translated into the languages we will use :
     - [FRENCH](./legal/Terms-Conditions-Sale-FR.md)
 
 ## Roadmap
-- Public roadmap
-    - [ENGLISH](./roadmap/public/Public-Roadmap-EN.md)
-    - [FRENCH](./roadmap/public/Public-Roadmap-EN.md)
-- Private roadmap for marketing
-    - [ENGLISH](./roadmap/private/Private-Roadmap-EN.md)
-    - [FRENCH](./roadmap/private/Private-Roadmap-FR.md)
+- Roadmap
+    - [ENGLISH](./roadmap/public/Roadmap-EN.md)
+    - [FRENCH](./roadmap/public/Roadmap-FR.md)
 
 ## Planet/alien lore
 All its information is contained in JSON files in the [planets folder](./planets/).
