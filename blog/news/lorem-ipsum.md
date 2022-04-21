@@ -1,4 +1,3 @@
-# The projet  
 « **The Tchoos** » is a mobile and web app where you can buy aliens as NFT images stored in the Elrond Blockchain.  
 
 Once the alien is bought, you have to named him, then you can start to [take care of him](#Aliens-caring) throught different tasks.
