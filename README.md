@@ -22,5 +22,8 @@ The main documents are translated into the languages we will use :
 - [ENGLISH](./roadmap/Roadmap-EN.md)
 - [FRENCH](./roadmap/Roadmap-FR.md)
 
+## Blog
+All the blog categories/information/posts is contained in the [blog folder](./blog/).
+
 ## Planet/alien lore
 All its information is contained in JSON files in the [planets folder](./planets/).

@@ -1,0 +1,23 @@
+{
+    "News": {
+        "folder": "news",
+        "icon": "bell.svg",
+        "posts": [
+
+        ]
+    },
+    "Blog": {
+        "folder": "blog",
+        "icon": "book.svg",
+        "posts": [
+
+        ]
+    },
+    "Tutorial": {
+        "folder": "tutorial",
+        "icon": "question.svg",
+        "posts": [
+
+        ]
+    }
+}
