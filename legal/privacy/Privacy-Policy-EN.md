@@ -2,8 +2,6 @@
 
 > Update: April 20 2022
 
-Salut !
-
 This privacy policy is intended to tell you how we collect your personal information when you create an account on our site. If you have any questions about your personal information, please contact us via our e-mail [contact@tchoo.pet](mailto://contact@tchoo.pet). By using the services, you consent to this policy and to the processing of your data in the manner set out in this policy. If you do not agree with these terms, please do not use the services.
 
 ---
@@ -19,6 +17,8 @@ This privacy policy is intended to tell you how we collect your personal informa
 ---
 
 ## Who is responsible for my personal data ?
+
+Salut 
 
 The person responsible for the personal data collected on our website is **The Tchoos**.
 
