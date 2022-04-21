@@ -5,17 +5,17 @@
         "icon": "bell.svg",
         "posts": [
             {
-                "name": "Lorem impsum",
+                "name": "Ajout de 1000 NFTs",
                 "file": "lorem-ipsum.md",
                 "date": "04-01-2022"
             },
             {
-                "name": "Lorem impsum",
+                "name": "Nouveautés sur l'application",
                 "file": "lorem-ipsum.md",
                 "date": "10-02-2022"
             },
             {
-                "name": "Lorem impsum",
+                "name": "Notre équipe évolue !",
                 "file": "lorem-ipsum.md",
                 "date": "01-06-2022"
             }
@@ -27,19 +27,14 @@
         "icon": "book.svg",
         "posts": [
             {
-                "name": "Lorem impsum",
+                "name": "Avis sur le gameplay de l'application",
                 "file": "lorem-ipsum.md",
                 "date": "01-12-2022"
             },
             {
-                "name": "Lorem impsum",
+                "name": "Proposition de nouveautés",
                 "file": "lorem-ipsum.md",
                 "date": "22-01-2022"
-            },
-            {
-                "name": "Lorem impsum",
-                "file": "lorem-ipsum.md",
-                "date": "08-01-2022"
             }
         ]
     },
