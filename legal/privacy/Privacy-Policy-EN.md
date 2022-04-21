@@ -18,8 +18,6 @@ This privacy policy is intended to tell you how we collect your personal informa
 
 ## Who is responsible for my personal data ?
 
-Salut 
-
 The person responsible for the personal data collected on our website is **The Tchoos**.
 
 ---
