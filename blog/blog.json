@@ -5,9 +5,9 @@
         "icon": "bell.svg",
         "posts": [
             {
-                "name": "Ajout de 1000 NFTs",
-                "file": "lorem-ipsum.md",
-                "date": "04-01-2022"
+                "name": "Project Announcement",
+                "file": "Project-Announcement.md",
+                "date": "25-04-2022"
             },
             {
                 "name": "Nouveautés sur l'application",
