@@ -8,16 +8,6 @@
                 "name": "Project Announcement",
                 "file": "Project-Announcement.md",
                 "date": "25-04-2022"
-            },
-            {
-                "name": "Nouveautés sur l'application",
-                "file": "lorem-ipsum.md",
-                "date": "10-02-2022"
-            },
-            {
-                "name": "Notre équipe évolue !",
-                "file": "lorem-ipsum.md",
-                "date": "01-06-2022"
             }
         ]
     },
@@ -26,16 +16,7 @@
         "folder": "blog",
         "icon": "book.svg",
         "posts": [
-            {
-                "name": "Avis sur le gameplay de l'application",
-                "file": "lorem-ipsum.md",
-                "date": "01-12-2022"
-            },
-            {
-                "name": "Proposition de nouveautés",
-                "file": "lorem-ipsum.md",
-                "date": "22-01-2022"
-            }
+            
         ]
     },
     {

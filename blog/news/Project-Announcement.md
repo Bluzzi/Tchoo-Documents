@@ -1,4 +1,4 @@
-# We are excited to announce our new project
+# We are excited to announce our new project : « The Tchoos »
 
 ## Presentation
 The Tchoos is a play to earn pet caring game and an NFT collection of **5000 unique 3D Aliens**. 
