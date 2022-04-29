@@ -27,4 +27,3 @@ All the blog categories/information/posts is contained in the [blog folder](./bl
 
 ## Planet/alien lore
 All its information is contained in JSON files in the [planets folder](./planets/).
-BUGGGGGG
